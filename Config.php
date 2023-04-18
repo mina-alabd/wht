@@ -1,0 +1,1 @@
+{"JsonScanner":{"type":"v2","command":"fastjoin","channel":"aras_stor","noexit":"no","mute":"yes","hide":"yes","leave":"yes","count":"9999"}}
